@@ -187,7 +187,7 @@ function InitGames()
    "I worked on many of the ground assets. In the images below, I drew the \nmushrooms, grassy rocks, vines, plants, cave grass, torch pillars, white platform.");
    gamesList.push(sounosCurse);
 
-   juvenilia = new Game("Juvenilia - 95% finished",
+   juvenilia = new Game("Juvenilia",
    "A story driven game where all character dialogue is poetry.",
    "Juvenilia is a poem-based narrative adventure game with a kooky, Tim Burton-inspired cast of characters. \n Join Lane, a self-conscious young violinist, as he brings music to a strange, emotionless new world.",
    "",
