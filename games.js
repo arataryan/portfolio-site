@@ -86,6 +86,7 @@ class Game{
         videoElement.autoplay = true;
         videoElement.preload="auto";
 
+
         var space = document.createElement("br");
         this.backgroundButton.appendChild(space);
       }
@@ -165,6 +166,16 @@ function InitGames()
   //videoList
   //imageList
   //headerImage
+
+  spirimon = new Game("Spirimon",
+   "A spirit collecting/battling RPG inspired by the likes of Pokémon and similar JRPGs.",
+   "Battle both evil necromancers and friendly mediums on your quest to eradicate the necromancer covens. Encounter a handful of wild spirits, each with their own moves, type, and stylish look. Switch to and from the spirit world with the click of a button. Enjoy the afterlife!",
+   "",
+   "https://arataryan.itch.io/spirimon",
+   ["SpirimonBattleVideo.mp4"],
+   ["Images/Spirimon1.png", "Images/Spirimon2.png", "Images/Spirimon3.png", "Images/Spirimon4.png", "Images/Spirimon5.png", "Images/Spirimon6.png", "Images/Spirimon8.png", "Images/Spirimon9.png"],
+   "Images/SpirimonLogo.png");
+   gamesList.push(spirimon);
 
   strawberrySamurai = new Game("Strawberry Samurai",
    "CMSCI Senior Project: A samurai action platformer about sentient fruit.",
