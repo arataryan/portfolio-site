@@ -173,7 +173,8 @@ function InitGames()
    "",
    "https://arataryan.itch.io/spirimon",
    ["SpirimonBattleVideo.mp4"],
-   ["Images/Spirimon1.png", "Images/Spirimon2.png", "Images/Spirimon3.png", "Images/Spirimon4.png", "Images/Spirimon5.png", "Images/Spirimon6.png", "Images/Spirimon8.png", "Images/Spirimon9.png"],
+    ["Images/SC1.png", "Images/SC2.png", "Images/SC3.png", "Images/SC4.png", "Images/SC5.png", "Images/SC6.png", "Images/SC7.png", "Images/SC8.png"],
+   //["Images/Spirimon1.png", "Images/Spirimon2.png", "Images/Spirimon3.png", "Images/Spirimon4.png", "Images/Spirimon5.png", "Images/Spirimon6.png", "Images/Spirimon8.png", "Images/Spirimon9.png"],
    "Images/SpirimonLogo.png");
    gamesList.push(spirimon);
 
