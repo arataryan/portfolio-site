@@ -208,6 +208,7 @@ function InitGames()
    "Images/JuveniliaHeader.png");
    gamesList.push(juvenilia);
 
+/*
    heartBreak = new Game("Heart Break",
    "Made in 4 days for the Coding Blocks Game Jam. \n -Winner of the Coding Blocks Game Jam- \n Theme: Everything is broken",
    "The townspeople of Heartsville are broken in two! Join Hart Jr. in recovering the missing heart pieces, \n while at the same time teaching the culprits, the Bleeding Heart Gang, a hearty lesson.  But watch out - the \n gang is no joke! Bounce on their heads to inflict some cardiovascular damage!",
@@ -237,6 +238,8 @@ function InitGames()
    ["Images/Afterwards1.png", "Images/Afterwards2.png", "Images/Afterwards3.png"],
    "");
    gamesList.push(afterwards);
+
+*/
 
    InitGameMethods(gamesList);
 }
